@@ -1,0 +1,1 @@
+print("This is a kumar's 1st code")
